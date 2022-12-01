@@ -1,0 +1,1 @@
+print("vishal"[::-1])
