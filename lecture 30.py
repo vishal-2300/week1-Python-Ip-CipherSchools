@@ -1,1 +1,0 @@
-print("vishal"[::-1])
